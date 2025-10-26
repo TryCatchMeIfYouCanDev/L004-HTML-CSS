@@ -128,4 +128,20 @@ Images can be displayed directly or used as clickable links.
 
 ---
 
+
+**Useful Links**
+
+1. https://www.w3schools.com/
+2. https://tinypng.com/
+3. https://webponize.org/
+4. https://www.gimp.org/
+5. https://github.com/nathan-osman/gimp-webp
+6. https://squoosh.app/
+7. https://convertio.co/it/webp-converter/
+8. https://csscompressor.net/
+9. https://pagespeed.web.dev/
+10. https://html5test.com/
+
+
+
 *End of Class Notes Summary*
